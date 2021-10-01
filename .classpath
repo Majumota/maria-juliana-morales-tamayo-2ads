@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="maria/juliana/morales/tamayo/parcial/pkg2/ads/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/maria/juliana/morales/tamayo/parcial/pkg2/ads"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
